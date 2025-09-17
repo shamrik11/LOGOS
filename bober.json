@@ -1,16 +1,6 @@
 {
-  "name": "Bobr Curva",
+  "name": "BOBR CURVA",
   "symbol": "BBC",
   "description": "Bobr Curva",
-  "image": "https://raw.githubusercontent.com/shamrik11/LOGOS/main/bober.png",
-  "attributes": [ ... ],
-  "properties": {
-    "files": [
-      { "uri": "https://link.to/image.png", "type": "image/png" }
-    ],
-    "category": "fungible",
-    "creators": [
-      { "address": "YOUR_WALLET_PUBKEY", "share": 100 }
-    ]
-  }
+  "image": "https://raw.githubusercontent.com/shamrik11/LOGOS/main/bober.png"
 }
