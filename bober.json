@@ -1,6 +1,12 @@
 {
-  "name": "BOBR CURVA",
-  "symbol": "BBC",
-  "description": "Bobr Curva",
-  "image": "https://raw.githubusercontent.com/shamrik11/LOGOS/main/bober.png"
-}
+    "name": "Bobr Curva",
+    "symbol": "BBC",
+    "description": "Bobr Curva",
+    "image": "https://raw.githubusercontent.com/shamrik11/LOGOS/main/bober.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
